@@ -1,6 +1,6 @@
 -- =============================================
 -- E-COMMERCE DATABASE SCHEMA
--- Author: [Your Name]
+-- Author: Janhvi Mane
 -- Description: Full schema including tables, 
 --              constraints, and automation triggers.
 -- =============================================
