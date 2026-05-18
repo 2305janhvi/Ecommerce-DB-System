@@ -19,7 +19,7 @@ The system consists of the following entities:
 
 
 ## ⚡ Technical Highlights
-### 1. Automatic Stock Deduction
+###  Automatic Stock Deduction
 I implemented a PL/pgSQL function that automatically reduces product stock whenever a new item is added to an order.
 ```sql
 -- Trigger logic example
